@@ -92,13 +92,13 @@
                                     
                                     <p>we provide vast amount of services, including also:</p>
 									<ul class="feature-icons">
-                                         <!--<li class="fa-tree">Tree surgery</li>-->
                                          <li class="fa-tree">Garden Clean ups</li>
-                                         <li class="fa-tree">Grass cuts</li>
-                                         <!--<li class="fa-cogs">Hedge trimming</li>-->
-                                         <li class="fa-rotate-right">Gutter Cleaning inside and out</li>
+                                         <li class="fa-leaf">Gutter Cleaning inside and out</li>
+                                         <li class="fa-star">Grass cuts</li>
+                                         <li class="fa-chevron-up">Roofing Repairs</li>
+                                         <!--<li class="fa-tree">Tree surgery</li>-->
                                          <!--<li class="fa-fast-forward">Powerwashing of drives and patios</li>-->
-                                         <li class="fa-tree">Roofing Repairs</li>
+                                         <!--<li class="fa-cogs">Hedge trimming</li>-->
                                         <!--
 										<li class="fa-code">Write all the code</li>
 										<li class="fa-cubes">Stack small boxes</li>
@@ -119,7 +119,7 @@
 										<article>
 											<a href="#" class="image"><img src="images/map.jpg" alt="" /></a>
 											<div class="inner">
-												<h4>We cover Galway, Mayo, Roscommon area's.</h4>
+												<h4>We cover Galway, Mayo and Roscommon area's.</h4>
                                                 <!--
 												<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>-->
 											</div>
