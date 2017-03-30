@@ -18,9 +18,9 @@
 		<!-- Header -->
 			<div id="header">
 				<span class="logo icon fa-tree"></span>
-				<h1>JB Tree Surgery & Property Maintenance.</h1>
-				<p>Fully insured public liability.</a>
-				<br />Over 20 years experience, 
+				<h1>JB Tree Surgery & Property Maintenance</h1>
+				<p>Fully insured public liability</a>
+				<br />Over 20 years experience
 				<br />Providing expertise and skills.</p>
 			</div>
 
@@ -28,9 +28,7 @@
 			<div id="main">
 
 				<header class="major container 75%">
-					<h2>No job to big or too small, 
-					<br />
-					Friendly, Reliable and affordable.
+					<h2>No job is too big or too small, Friendly, Reliable and affordable.
 					<br /></h2>
 					<!--
 					<p>Tellus erat mauris ipsum fermentum<br />
@@ -40,29 +38,36 @@
 
 				<div class="box alt container">
 					<section class="feature left">
-						<a href="#" class="image icon fa-map-marker"><img src="images/pic01.jpg" alt="" /></a>
-						<div class="content">
-							<h3>Where we work</h3>
-							<p>We cover Galway, Mayo, Roscommon area's.</p>
-						</div>
-					</section>
-					<section class="feature right">
 						<a href="#" class="image icon fa-thumbs-up"><img src="images/pic02.jpg" alt="" /></a>
 						<div class="content">
 							<h3>What we do</h3>
-							<p>We provide vast amount of services including Tree surgery, Garden Clean ups and grass cuts, Hedge trimming, Gutter Cleaning inside and out, Powerwashing of drives and patio's plus roofing repairs.</p>
+                                <ul class="default">
+                                 <li><b>Tree surgery</b></li>
+                                 <li><b>Garden Clean ups</b></li>
+                                 <li><b>Grass cuts</b></li>
+                                 <li><b>Hedge trimming</b></li>
+                                 <li><b>Gutter Cleaning inside and out</b></li>
+                                 <li><b>Powerwashing of drives and patio's</b></li>
+                                 <li><b>roofing repairs</b></li>
+                                </ul>    
+						</div>
+					</section>
+					<section class="feature right">
+						<a href="#" class="image icon fa-map-marker"><img src="images/pic01.jpg" alt="" /></a>
+						<div class="content">
+							<h3>Where</h3>
+							<p>We cover <b>Galway</b>, <b>Mayo</b> and <b>Roscommon</b> area's.</p>
 						</div>
 					</section>
 					<section class="feature left">
 						<a href="#" class="image icon fa-mobile"><img src="images/pic03.jpg" alt="" /></a>
 						<div class="content">
 							<h3>Contact</h3>
-							<p>More information and free quotation <br/>give John a call on <b>0872255953</b>.</p>
+							<p>More information and free quotation <br/>give John a call on <a href="tel:+353872255953"><b>087 225 59 53</b></a>.</p>
 						</div>
 					</section>
 				</div>
 
-				
 				<div class="box container" style="display:none">
 					<header>
 						<h2>A lot of generic stuff</h2>
@@ -209,13 +214,13 @@
 						</form>
 					</section>
 				</div>
-				
+
 
 				<footer class="major container 75%">
-					<h3>Get shady with science</h3>
+					<h3>Get A Free Quote</h3>
 					<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
 					<ul class="actions">
-						<li><a href="#" class="button">Join our crew</a></li>
+						<li><a href="#" class="button">Portfolio</a></li>
 					</ul>
 				</footer>
 
