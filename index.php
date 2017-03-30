@@ -24,7 +24,7 @@
 				</header>
 				<nav id="nav">
 					<ul>
-						<li><a href="#one" class="active">About</a></li>
+						<li><a href="#one" class="active">About us</a></li>
                         <li><a href="#two">What we do</a></li>
 						<li><a href="#three">Where we work</a></li>
 						<!--<li><a href="#four">Contact us</a></li>-->
