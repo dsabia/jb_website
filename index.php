@@ -20,18 +20,18 @@
 				<span class="logo icon fa-tree"></span>
 				<h1>JB Tree Surgery & Property Maintenance.</h1>
 				<p>Fully insured public liability.</a>
-				<br />Over 20 years experience, Providing expertise and skills.</p>
+				<br />Over 20 years experience, 
+				<br />Providing expertise and skills.</p>
 			</div>
 
 		<!-- Main -->
 			<div id="main">
 
 				<header class="major container 75%">
-					<h2>We conduct experiments that
+					<h2>No job to big or too small, 
 					<br />
-					may or may not seriously
-					<br />
-					break the universe</h2>
+					Friendly, Reliable and affordable.
+					<br /></h2>
 					<!--
 					<p>Tellus erat mauris ipsum fermentum<br />
 					etiam vivamus nunc nibh morbi.</p>
@@ -40,10 +40,10 @@
 
 				<div class="box alt container">
 					<section class="feature left">
-						<a href="#" class="image icon fa-signal"><img src="images/pic01.jpg" alt="" /></a>
+						<a href="#" class="image icon fa-map-marker"><img src="images/pic01.jpg" alt="" /></a>
 						<div class="content">
-							<h3>The First Thing</h3>
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+							<h3>Where we work</h3>
+							<p>We cover Galway, Mayo, Roscommon area's.</p>
 						</div>
 					</section>
 					<section class="feature right">
