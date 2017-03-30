@@ -47,23 +47,23 @@
 						</div>
 					</section>
 					<section class="feature right">
-						<a href="#" class="image icon fa-code"><img src="images/pic02.jpg" alt="" /></a>
+						<a href="#" class="image icon fa-thumbs-up"><img src="images/pic02.jpg" alt="" /></a>
 						<div class="content">
-							<h3>The Second Thing</h3>
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+							<h3>What we do</h3>
+							<p>We provide vast amount of services including Tree surgery, Garden Clean ups and grass cuts, Hedge trimming, Gutter Cleaning inside and out, Powerwashing of drives and patio's plus roofing repairs.</p>
 						</div>
 					</section>
 					<section class="feature left">
 						<a href="#" class="image icon fa-mobile"><img src="images/pic03.jpg" alt="" /></a>
 						<div class="content">
-							<h3>The Third Thing</h3>
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+							<h3>Contact</h3>
+							<p>More information and free quotation <br/>give John a call on <b>0872255953</b>.</p>
 						</div>
 					</section>
 				</div>
 
 				
-				<div class="box container">
+				<div class="box container" style="display:none">
 					<header>
 						<h2>A lot of generic stuff</h2>
 					</header>
