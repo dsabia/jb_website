@@ -24,8 +24,8 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-					<h1 id="logo"><a href="#">JB Tree Surgery & Property Maintenance</a><br/><br/><i>tel.</i> <a href="tel:+353872255953"> 087 225 59 53 </a></h1>
-					<p>More information and free quotation <br/>give John a call.</p>
+					<h1 id="logo"><a href="#">JB Tree Surgery & Property Maintenance</a><br/><br/><i>call John</i> <a href="tel:+353872255953">087 2255 953 </a></h1>
+					<p>More information and free quotation.</p>
 				</header>
 				<nav id="nav">
 					<ul>
@@ -516,7 +516,7 @@
 					<section id="footer">
 						<div class="container">
 							<ul class="copyright">
-								<li>&copy; 2017 JB Tree Surgery and Property Management<br/>All rights reserved.</li><li>Design: <a href="https://dsabia.github.io">dsabia</a><br/>Template: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; 2017 <br/>JB Tree Surgery and Property Management. All rights reserved.</li><li>Design: <a href="https://dsabia.github.io">dsabia</a><br/>Template: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</section>
