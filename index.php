@@ -6,12 +6,17 @@
 -->
 <html>
 	<head>
-		<title>JB Tree Surgery & Property Maintenance</title>
+		<title>JP Tree Surgery and Property Management | Galway, Mayo, Roscommon </title>
+		
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<meta name="description" content="JP Tree Surgery and Property Management, Galway, Mayo, Roscommon areas. Get a quote +353872255953"/>
+		<meta name="keywords" content="West Ireland Tree Surgery, West Ireland Tree Surgerions, West Coast Tree Surgery, West Coast Tree Surgerions, Galway Tree Surgery, Galway Property Management, Roscommon Tree Surgery, Roscommon Property Management, Mayo Tree Surgery, Mayo Property Management, Galway Tree Surgerions, Roscommon Tree Surgerions, Mayo Tree Surgerions, Free Quote, Get a quote +353872255953 0872255953, Tree surgery, Hedge trimming, Powerwashing of drives and patios, Garden Clean Ups, Gutter Cleaning, Grass cuts, Roofing Repairs, Tree surgery service, Hedge trimming service, Powerwashing service, Garden Clean Up service, Gutter Cleaning service, Grass cuts service, Roofing Repairs service, John, Boxing Club Galway, Olimpic Boxing Galway" />
+		<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW"/>
+	
 	</head>
 	<body>
 
