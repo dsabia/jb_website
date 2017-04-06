@@ -516,7 +516,7 @@
 					<section id="footer">
 						<div class="container">
 							<ul class="copyright">
-								<li>&copy; 2017 JB Tree Surgery and Property Management. All rights reserved.</li><li>Design: <a href="https://dsabia.github.io">dsabia.github.io</a> HTML5 Template: <a href="http://html5up.net">HTML5 UP</a></li>
+								<li>&copy; 2017 JB Tree Surgery and Property Management. All rights reserved.</li><li>Design: <a href="https://dsabia.github.io">dsabia.github.io</a> </li><li> HTML5 Template: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</section>
