@@ -24,8 +24,8 @@
 			<section id="header">
 				<header>
 					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
-					<h1 id="logo"><a href="#">JB Tree Surgery & Property Maintenance</a><br/><br/><i>call John</i> <a href="tel:+353872255953">087 2255 953 </a></h1>
-					<p>More information and free quotation.</p>
+					<h1 id="logo"><a href="#">JB Tree Surgery & Property Maintenance</a><br/><br/><i>call John on</i> <a href="tel:+353872255953">087 2255 953</a></h1>
+					<p>for more information and free quotation.</p>
 				</header>
 				<nav id="nav">
 					<ul>
